@@ -14,10 +14,9 @@
         }
     ],
     "require": {
-        "php"					: ">=5.5.*",
-        "hoa/core"              : "dev-master",
-        "hoa/visitor"           : "dev-master",
-        "davidkuhner/graphictools"   : "dev-master"
+        "hoa/core"                 : "dev-master",
+        "hoa/visitor"              : "dev-master",
+        "davidkuhner/graphictools" : "dev-master"
     },
     "minimum-stability": "dev"
 }
