@@ -1,5 +1,5 @@
 {
-    "name"       : "hoathis/regex",
+    "name"       : "davidkuhner/regex",
     "description": "The Hoathis\\Regex library.",
     "type"       : "library",
     "license"    : "BSD-3-Clause",
@@ -13,17 +13,11 @@
             "homepage": "http://hoa-project.net/"
         }
     ],
-    "repositories": [
-	   {
-		 "type": "git",
-		 "url": "git://github.com/davidkuhner/compiler-visualization.git"
-	   }
-	]
     "require": {
         "php": ">=5.5.*"
         "hoa/core"              : "dev-master",
         "hoa/visitor"           : "dev-master",
-        "compiler-visualization/graphictools   : "dev-master"
+        "davidkuhner/graphictools   : "dev-master"
     },
     "minimum-stability": "dev"
 }
