@@ -18,5 +18,5 @@
         "davidkuhner/graphictools" : "dev-master"
     },
     "minimum-stability": "dev",
-    "bin"        : ["bin/hoathis"]
+    "bin"        : ["bin/davidkuhner"]
 }
