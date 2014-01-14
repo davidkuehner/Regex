@@ -23,6 +23,5 @@
             "Regex": "src"
         }
     },
-    "target-dir"       : "davidkuhner/regex",
     "autoload"         : { "psr-0": { "davidkuhner\\regex": "." } }
 }
