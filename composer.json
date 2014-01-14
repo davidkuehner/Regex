@@ -23,5 +23,6 @@
             "Regex": "src"
         }
     },
-    "bin"        : ["bin/davidkuhner"]
+    "target-dir"       : "davidkuhner/regex",
+    "autoload"         : { "psr-0": { "davidkuhner\\regex": "." } }
 }
