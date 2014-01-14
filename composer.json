@@ -18,5 +18,10 @@
         "davidkuhner/graphictools" : "dev-master"
     },
     "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "Regex": "src"
+        }
+    },
     "bin"        : ["bin/davidkuhner"]
 }
