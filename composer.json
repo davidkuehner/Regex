@@ -1,6 +1,5 @@
 {
     "name"       : "davidkuhner/regex",
-    "bin"        : ["bin/hoathis"],
     "description": "The Hoathis\\Regex library.",
     "type"       : "library",
     "license"    : "BSD-3-Clause",
@@ -18,5 +17,6 @@
         "hoa/visitor"              : "dev-master",
         "davidkuhner/graphictools" : "dev-master"
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "bin"        : ["bin/hoathis"]
 }
