@@ -1,5 +1,6 @@
 {
     "name"       : "davidkuhner/regex",
+    "bin"        : ["bin/hoathis"],
     "description": "The Hoathis\\Regex library.",
     "type"       : "library",
     "license"    : "BSD-3-Clause",
