@@ -14,7 +14,7 @@
         }
     ],
     "require": {
-    	"php"                      : ">=5.4.*",
+    	"php"                      : ">=5.4.1",
         "hoa/visitor"              : "dev-master",
         "davidkuhner/graphictools" : "dev-master"
     },
