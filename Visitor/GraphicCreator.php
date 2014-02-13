@@ -15,16 +15,6 @@ namespace Hoathis\Regex\Visitor {
 interface GraphicCreator {
 
 	/**
-	 * Return a GraphicCreator. 
-	 * If it already exists, returns it. Else creates it and then return it. 
-	 * Purpose : match the singleton.
-	 *
-	 * @access  public
-	 * @return  Hoathis\Regex\Visitor\GraphicCreator
-	 */
-	public static function getInstance ( );
-
-	/**
 	 * Creates and return a token with the given Token type and value.
 	 * 
 	 * @param   string  $token      Token type.
